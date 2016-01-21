@@ -1,0 +1,28 @@
+Implement Kruskal algorithm using disjoint sets.
+
+Roadmap: 
+1) implement Kruskal algorithm with colors (file kruskal.h, function kruskal_vector)
+
+2) implement disjoint sets (files disjoint_sets.h and disjoint_sets.cpp)
+use driver_disjoint_sets.cpp (Makefile target gcc0_ds and msc0_ds). 
+Master output is in ds-out0,...,ds-out10
+
+3) convert Kruskal algorithm (file kruskal.h, function kruskal_disjoint_subsets) from using
+colors to using disjoint sets
+
+Targets:
+disjoint sets: gcc0_ds. msc0_ds. Executables are named same way. To test
+gcc0_ds.exe test > student_test, where test is a number 0,....,10
+compare student_test to master output out-ds...
+
+kruskal: gcc0, msc0. Executables are named same way. There are 3 tests (0,1,2). 
+Master output is in out0,out1,out2
+Times:
+test0 - immediate
+test1 - 200ms
+test2 - 20ms  (disjoint subsets are 10 times faster then vector of colors)
+
+Submit:
+kruskal.h (no kruskal.cpp, so implementation goes into the header)
+disjoint_sets.cpp
+===============================================

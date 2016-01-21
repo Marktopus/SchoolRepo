@@ -1,0 +1,10 @@
+Base case: bag { 0,1,2,3,4,5,6 } weight=15, value=53 - is new best (old best=-2147483648)
+Cancel branch
+Cancel branch
+Cancel branch
+Cancel branch
+Cancel branch
+Cancel branch
+Cancel branch
+(1,6) - (3,15) - (2,9) - (2,7) - (1,3) - (3,8) - (3,5) - 
+Total grab 53 weighing 15 (max 16)

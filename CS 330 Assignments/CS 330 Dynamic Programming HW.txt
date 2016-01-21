@@ -1,0 +1,103 @@
+Class:        CS 330
+Assignment:   Dynamic Programming HW
+Prof:         Dmitri Volper
+Student:      Mark Lauzon
+
+3:
+
+int find_num_paths_from(int startx, int starty, int endx, int endy)
+{
+  if ((startx == endx) && (starty == endy))
+  {
+    return 1;
+  }
+  int num_paths = 0;
+  for (startx; startx < endx; ++startx)
+  {
+    num_paths += find_num_paths_from(startx + 1, starty, endx, endy);
+    
+  }
+  for (starty; starty < endy; ++starty)
+  {
+    num_paths += find_num_paths_from(startx, starty + 1, endx, endy);
+  }
+  return num_paths;
+}
+
+in formula form:
+
+N(2) = 2
+
+N(m) = 4 * N(m - 1)
+
+N(m) = 4 * 4 * N(m - 2)
+
+N(m) = 4^(m - 2) * 2
+
+N(8) = 4^(6) * 2
+
+     = 8192
+
+
+6:
+
+
+//recursive (not thoroughly tested, but idea is there)
+int numCoinsChange(int start)
+{
+  if(start)
+  {
+    int one = 1 + numCoinsChange(start - 1)
+    int seven = 1 + numCoinsChange(start - 7)
+    int ten = 1 + numCoinsChange(start - 10)
+  
+    return min(one, min(seven, ten));
+  }
+  return 0;
+}
+
+
+//with dynamic programming (tested)
+int numCoinsChange(int start)
+{
+  if (start == 0)
+  {
+    return 0;
+  }
+  int* counts = (int*)alloca(sizeof(int) * start);
+  int coinCount = 0;
+  for (int i = 0; i < start; ++i)
+  {
+    counts[i] = coinCount;
+    ++coinCount;
+    int value = i + 1;
+
+    if (!(value % 10))
+    {
+      coinCount = value / 10;
+    }
+    else if (!(value % 7))
+    {
+      coinCount = value / 7;
+    }
+    counts[i] = coinCount;
+  }
+  return counts[start - 1];
+}
+
+
+//final table:
+counts[0]   = 1
+counts[1]   = 2
+counts[2]   = 3
+counts[3]   = 4
+counts[4]   = 5
+counts[5]   = 6
+counts[6]   = 1
+counts[7]   = 2
+counts[8]   = 3
+counts[9]   = 1
+counts[10]  = 2
+counts[11]  = 3
+counts[12]  = 4
+counts[13]  = 2

@@ -11,3 +11,5 @@ CS 330 Assignments/DisjointSets/DisjointSets/Release/DisjointSets.tlog/cl.comman
 *.log
 *.user
 *.pdb
+*.opensdf
+*.cache

@@ -174,9 +174,6 @@ DebugShape& DebugDrawer::DrawLine(const LineSegment& line)
 {
   DebugShape& shape = GetNewShape();
   shape.mSegments.push_back(line);
-  
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -212,9 +209,6 @@ DebugShape& DebugDrawer::DrawRay(const Ray& ray, float t)
 {
   DebugShape& shape = GetNewShape();
   shape.mSegments = makeRay(ray, t);
-
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -251,8 +245,6 @@ DebugShape& DebugDrawer::DrawSphere(const Sphere& sphere)
     shape.mSegments.insert(shape.mSegments.end(), segments[i].begin(), segments[i].end());
   }
 
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -288,9 +280,6 @@ DebugShape& DebugDrawer::DrawAabb(const Aabb& aabb)
   shape.mSegments.push_back(LineSegment(maxMinusX, minPlusZ));
   shape.mSegments.push_back(LineSegment(maxMinusZ, minPlusX));
 
-
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -301,8 +290,6 @@ DebugShape& DebugDrawer::DrawTriangle(const Triangle& triangle)
   shape.mSegments.push_back(LineSegment(triangle.mPoints[0], triangle.mPoints[1]));
   shape.mSegments.push_back(LineSegment(triangle.mPoints[1], triangle.mPoints[2]));
   shape.mSegments.push_back(LineSegment(triangle.mPoints[2], triangle.mPoints[0]));
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -321,12 +308,6 @@ DebugShape& DebugDrawer::DrawPlane(const Plane& plane, float sizeX, float sizeY)
   shape.mSegments.push_back(LineSegment(center - (up * (sizeY / 2.0f)), center + (right * (sizeX / 2.0f))));
   shape.mSegments.push_back(LineSegment(center + (up * (sizeY / 2.0f)), center - (right * (sizeX / 2.0f))));
   shape.mSegments.push_back(LineSegment(center + (up * (sizeY / 2.0f)), center + (right * (sizeX / 2.0f))));
-
-  
-  
-
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -338,8 +319,6 @@ DebugShape& DebugDrawer::DrawQuad(const Vector3& p0, const Vector3& p1, const Ve
   shape.mSegments.push_back(LineSegment(p1, p2));
   shape.mSegments.push_back(LineSegment(p2, p3));
   shape.mSegments.push_back(LineSegment(p3, p0));
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }
 
@@ -376,7 +355,5 @@ DebugShape& DebugDrawer::DrawFrustum(const Frustum& frustum)
   shape.mSegments.push_back(LineSegment(frustum.mPoints[LeftBottomFar], frustum.mPoints[LeftTopFar]));
   shape.mSegments.push_back(LineSegment(frustum.mPoints[RightBottomFar], frustum.mPoints[RightTopFar]));
   
-  ///******Student:Assignment2******/
-  //WarnIf(ShowDebugDrawWarnings, "Assignment2: Required function un-implemented");
   return shape;
 }

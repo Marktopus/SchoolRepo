@@ -36,12 +36,12 @@ bool BarycentricCoordinates(const Vector3& point, const Vector3& a, const Vector
     float baLen = ba.Length();
     
     Math::Vector3 normal = ba / baLen;
-    v = normal.Dot(point - a) / baLen;
-    u = 1.0f - v;
+    u = normal.Dot(point - b) / baLen;
+    v = 1.0f - u;
 
-    if(u + v < 1.0f + epsilon)
+    if(u == Math::Clamp(u, -epsilon, 1.0f + epsilon))
     {
-      if(u + v > 1.0f - epsilon)
+      if(v == Math::Clamp(v, -epsilon, 1.0f + epsilon))
       {
         return true;
       }
@@ -88,11 +88,14 @@ bool BarycentricCoordinates(const Vector3& point, const Vector3& a, const Vector
     v = vTop.Determinate() / botDet;
     w = 1.0f - u - v;
 
-    if((u + v + w) < (1.0f + epsilon))
+    if(u == Math::Clamp(u, -epsilon, 1.0f + epsilon))
     {
-      if((u + v + w) > (1.0f - epsilon))
+      if(v == Math::Clamp(v, -epsilon, 1.0f + epsilon))
       {
-        return true;
+        if(w == Math::Clamp(w, -epsilon, 1.0f + epsilon))
+        {
+          return true;
+        }
       }
     }
 
@@ -125,7 +128,7 @@ IntersectionType::Type PointPlane(const Vector3& point, const Vector4& plane, fl
 
 bool PointSphere(const Vector3& point, const Vector3& sphereCenter, float sphereRadius)
 {
-  return (sphereCenter - point).LengthSq() < (sphereRadius * sphereRadius);
+  return (sphereCenter - point).LengthSq() <= (sphereRadius * sphereRadius);
 }
 
 bool PointAabb(const Vector3& point, const Vector3& aabbMin, const Vector3& aabbMax)
@@ -164,9 +167,13 @@ bool RayPlane(const Vector3& rayStart, const Vector3& rayDir,
   }
 
   //protect against div by zero
-  if(distDotNorm)
+  if(dirDotNorm > 0.0f)// if it's greater than zero, then our distance will be negative
   {
-    t = dist / dirDotNorm;
+    t = -dist / dirDotNorm;
+  }
+  else if(dirDotNorm < 0.0f)//if it's less, our distance will be positive (but dot will be negative)
+  {
+    t = dist / -dirDotNorm;
   }
   return retVal;
 }
@@ -193,11 +200,31 @@ bool RaySphere(const Vector3& rayStart, const Vector3& rayDir,
   ++Application::mStatistics.mRaySphereTests;
   //project sphere center on to line
   Math::Vector3 sphereVec = sphereCenter - rayStart;
-  t = sphereVec.Dot(rayDir);
-  if(t > 0.0f)
+  float floatingPointEpsilon = 0.0001f;
+  float tClosestToRay = sphereVec.Dot(rayDir);
+  if(tClosestToRay >= 0.0f)
   {
-    Math::Vector3 pointClosestToSphere = rayDir * t;
-    return (sphereCenter - pointClosestToSphere).LengthSq() < (sphereRadius * sphereRadius);
+    Math::Vector3 pointClosestToSphere = rayStart + (rayDir * tClosestToRay);
+    
+    if((sphereCenter - pointClosestToSphere).LengthSq() <= (sphereRadius * sphereRadius))
+    {
+      //may be inside sphere, so we must calculate the length of ray that is inside the sphere and subtract
+      //we can use cosine for this.
+      //                                             adjacent                           hypotenuse
+      float lenInSphere;
+      if((sphereCenter - pointClosestToSphere).LengthSq() > floatingPointEpsilon)
+      {
+        lenInSphere = Math::ArcCos((sphereCenter - pointClosestToSphere).Length() / sphereRadius);
+      }
+      else
+      {
+        lenInSphere = sphereRadius;
+      }
+      //since raydir should be unit length, we can simply subtract this from our closest t
+      //we max to make sure that we don't subtract past the start of the ray
+      t = Math::Max(tClosestToRay - lenInSphere, 0.0f);
+      return true;
+    }
   }
   return false;
 }
@@ -206,8 +233,92 @@ bool RayAabb(const Vector3& rayStart, const Vector3& rayDir,
              const Vector3& aabbMin, const Vector3& aabbMax, float& t)
 {
   ++Application::mStatistics.mRayAabbTests;
-  /******Student:Assignment1******/
-  Warn("Assignment1: Required function un-implemented");
+  
+  if(PointAabb(rayStart, aabbMin, aabbMax))
+  {
+    t = 0.0f;
+    return true;
+  }
+
+  std::vector<float> tVals;
+  std::vector<Plane> planes;
+  if(rayDir.x)
+  {
+    planes.emplace_back(Plane(Math::Vector3(aabbMin.x / Math::Abs(aabbMin.x), 0.0f, 0.0f), aabbMin));
+    planes.emplace_back(Plane(Math::Vector3(aabbMax.x / Math::Abs(aabbMax.x), 0.0f, 0.0f), aabbMax));
+    tVals.emplace_back(FLT_MAX);
+    tVals.emplace_back(FLT_MAX);
+  }
+  else
+  {
+    if(Math::Clamp(rayStart.x, aabbMin.x, aabbMax.x) != rayStart.x)
+    {
+      return false;
+    }
+  }
+  if(rayDir.y)
+  {
+    planes.emplace_back(Plane(Math::Vector3(0.0f, aabbMin.y / Math::Abs(aabbMin.y), 0.0f), aabbMin));
+    planes.emplace_back(Plane(Math::Vector3(0.0f, aabbMax.y / Math::Abs(aabbMax.y), 0.0f), aabbMax));
+    tVals.emplace_back(FLT_MAX);
+    tVals.emplace_back(FLT_MAX);
+  }
+  else
+  {
+    if(Math::Clamp(rayStart.y, aabbMin.y, aabbMax.y) != rayStart.y)
+    {
+      return false;
+    }
+  }
+  if(rayDir.z)
+  {
+    planes.emplace_back(Plane(Math::Vector3(0.0f, 0.0f, aabbMin.z / Math::Abs(aabbMin.z)), aabbMin));
+    planes.emplace_back(Plane(Math::Vector3(0.0f, 0.0f, aabbMax.z / Math::Abs(aabbMax.z)), aabbMax));
+    tVals.emplace_back(FLT_MAX);
+    tVals.emplace_back(FLT_MAX);
+  }
+  else
+  {
+    if(Math::Clamp(rayStart.z, aabbMin.z, aabbMax.z) != rayStart.z)
+    {
+      return false;
+    }
+  }
+
+  for(int i = 0; i < planes.size(); i += 2)
+  {
+    RayPlane(rayStart, rayDir, planes[i].mData, tVals[i]);
+    RayPlane(rayStart, rayDir, planes[i + 1].mData, tVals[i + 1]);
+
+    //we dot with positive plane axis to get the desired component
+    if(rayDir.Dot(Math::Vector3(planes[i + 1].mData.x, planes[i + 1].mData.y, planes[i + 1].mData.z)) < 0.0f)
+    {
+      std::swap(tVals[i], tVals[i + 1]);
+    }
+  }
+
+  float tmin = -FLT_MAX;
+  float tmax = FLT_MAX;
+
+
+  for(int i = 0; i < tVals.size(); i += 2)
+  {
+    tmin = Math::Max(tmin, tVals[i]);
+    tmax = Math::Min(tmax, tVals[i + 1]);
+  }
+  
+
+
+  //tmin should be start of our collision
+  if(tmin < tmax)
+  {
+    if(tmin > 0.0f)
+    {
+      t = tmin;
+      return true;
+    }
+  }
+  
   return false;
 }
 

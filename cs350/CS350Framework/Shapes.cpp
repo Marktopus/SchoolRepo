@@ -273,23 +273,16 @@ Plane::Plane(const Vector3& normal, const Vector3& point)
 
 void Plane::Set(const Vector3& p0, const Vector3& p1, const Vector3& p2)
 {
-  Math::Vector3 normal = (p1 - p0).Cross(p2 - p0);
-  mData.x = normal.x;
-  mData.y = normal.y;
-  mData.z = normal.z;
-  mData.w = normal.Dot(p0);
-  ///******Student:Assignment1******/
-  //Warn("Assignment1: Required function un-implemented");
+  Set((p1 - p0).Cross(p2 - p0), p0);
 }
 
 void Plane::Set(const Vector3& normal, const Vector3& point)
 {
-  mData.x = normal.x;
-  mData.y = normal.y;
-  mData.z = normal.z;
-  mData.w = normal.Dot(point);
-  ///******Student:Assignment1******/
-  //Warn("Assignment1: Required function un-implemented");
+  Math::Vector3 normalizedNormal = normal.Normalized();
+  mData.x = normalizedNormal.x;
+  mData.y = normalizedNormal.y;
+  mData.z = normalizedNormal.z;
+  mData.w = normalizedNormal.Dot(point);
 }
 
 Vector3 Plane::GetNormal() const

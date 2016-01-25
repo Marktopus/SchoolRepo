@@ -228,17 +228,21 @@ DebugShape& DebugDrawer::DrawSphere(const Sphere& sphere)
 
   segments[2] = makeCircle(sphere.mCenter, Math::Vector3(0.0f, 0.0f, 1.0f), sphere.mRadius);
 
-
-  //horizon circle
-  Math::Vector3 dVec = sphere.mCenter - mApplication->mCamera.mTranslation;
-  Math::Vector3 dVecNorm = dVec.Normalized();
-  float radSquared = sphere.mRadius * sphere.mRadius;
-  float lLen = Math::Sqrt(dVec.LengthSq() - radSquared);
-  float rPrime = (sphere.mRadius * lLen) / dVec.Length();
-  float z = radSquared - (rPrime * rPrime);
-  Math::Vector3 newCenter = mApplication->mCamera.mTranslation + (dVec - (dVecNorm * z));
+  if(mApplication)
+  {
+    //horizon circle
+    Math::Vector3 dVec = sphere.mCenter - mApplication->mCamera.mTranslation;
+    Math::Vector3 dVecNorm = dVec.Normalized();
+    float radSquared = sphere.mRadius * sphere.mRadius;
+    float lLen = Math::Sqrt(dVec.LengthSq() - radSquared);
+    float rPrime = (sphere.mRadius * lLen) / dVec.Length();
+    float z = radSquared - (rPrime * rPrime);
+    Math::Vector3 newCenter = mApplication->mCamera.mTranslation + (dVec - (dVecNorm * z));
+    segments[3] = makeCircle(newCenter, dVecNorm, rPrime);
+  }
   
-  segments[3] = makeCircle(newCenter, dVecNorm, rPrime);
+  
+  
 
   for(int i = 0; i < 4; ++i)
   {

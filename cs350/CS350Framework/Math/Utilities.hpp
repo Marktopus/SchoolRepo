@@ -59,8 +59,8 @@ do { ZERO_DEBUG_BREAK; PrintError(__VA_ARGS__); fprintf(stderr, "\n"); } while(g
 #define ErrorWithCondititionAssert(Expression, ...) \
 do { if((Expression)) ZERO_DEBUG_BREAK; PrintError(__VA_ARGS__); fprintf(stderr, "\n"); } while(gConditionalFalseConstant)
 
-#define Warn(...)\
-do { PrintError(__VA_ARGS__); fprintf(stderr, "\n"); } while(gConditionalFalseConstant)
+#define Warn(...)
+//do { PrintError(__VA_ARGS__); fprintf(stderr, "\n"); } while(gConditionalFalseConstant)
 
 #define FileErrorIf(Expression, file, Line, ...) \
 do { ZERO_DEBUG_BREAK; PrintError(__VA_ARGS__); fprintf(stderr, "\n"); } while(gConditionalFalseConstant)

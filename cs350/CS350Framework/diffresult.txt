@@ -1,0 +1,4288 @@
+2625c2625
+<   Result:NotImplemented
+---
+>   Result:Inside
+2630c2630
+<   Result:NotImplemented
+---
+>   Result:Inside
+2635c2635
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2640c2640
+<   Result:NotImplemented
+---
+>   Result:Outside
+2645c2645
+<   Result:NotImplemented
+---
+>   Result:Outside
+2650c2650
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2655c2655
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2660c2660
+<   Result:NotImplemented
+---
+>   Result:Inside
+2665c2665
+<   Result:NotImplemented
+---
+>   Result:Inside
+2670c2670
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2675c2675
+<   Result:NotImplemented
+---
+>   Result:Outside
+2680c2680
+<   Result:NotImplemented
+---
+>   Result:Outside
+2685c2685
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2690c2690
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2695c2695
+<   Result:NotImplemented
+---
+>   Result:Inside
+2700c2700
+<   Result:NotImplemented
+---
+>   Result:Inside
+2705c2705
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2710c2710
+<   Result:NotImplemented
+---
+>   Result:Outside
+2715c2715
+<   Result:NotImplemented
+---
+>   Result:Outside
+2720c2720
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2725c2725
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2730c2730
+<   Result:NotImplemented
+---
+>   Result:Inside
+2735c2735
+<   Result:NotImplemented
+---
+>   Result:Inside
+2740c2740
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2745c2745
+<   Result:NotImplemented
+---
+>   Result:Outside
+2750c2750
+<   Result:NotImplemented
+---
+>   Result:Outside
+2755c2755
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2760c2760
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2765c2765
+<   Result:NotImplemented
+---
+>   Result:Inside
+2770c2770
+<   Result:NotImplemented
+---
+>   Result:Inside
+2775c2775
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2780c2780
+<   Result:NotImplemented
+---
+>   Result:Outside
+2785c2785
+<   Result:NotImplemented
+---
+>   Result:Outside
+2790c2790
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2795c2795
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2800c2800
+<   Result:NotImplemented
+---
+>   Result:Inside
+2805c2805
+<   Result:NotImplemented
+---
+>   Result:Inside
+2810c2810
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2815c2815
+<   Result:NotImplemented
+---
+>   Result:Outside
+2820c2820
+<   Result:NotImplemented
+---
+>   Result:Outside
+2825c2825
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2830c2830
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2835c2835
+<   Result:NotImplemented
+---
+>   Result:Inside
+2840c2840
+<   Result:NotImplemented
+---
+>   Result:Inside
+2845c2845
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2850c2850
+<   Result:NotImplemented
+---
+>   Result:Outside
+2855c2855
+<   Result:NotImplemented
+---
+>   Result:Outside
+2860c2860
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2865c2865
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2870c2870
+<   Result:NotImplemented
+---
+>   Result:Inside
+2875c2875
+<   Result:NotImplemented
+---
+>   Result:Inside
+2880c2880
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2885c2885
+<   Result:NotImplemented
+---
+>   Result:Outside
+2890c2890
+<   Result:NotImplemented
+---
+>   Result:Outside
+2895c2895
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2900c2900
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2905c2905
+<   Result:NotImplemented
+---
+>   Result:Inside
+2910c2910
+<   Result:NotImplemented
+---
+>   Result:Inside
+2915c2915
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+2920c2920
+<   Result:NotImplemented
+---
+>   Result:Outside
+2925c2925
+<   Result:NotImplemented
+---
+>   Result:Outside
+2930c2930
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+2935c2935
+<   Result:NotImplemented
+---
+>   Result:Coplanar
+3040c3040
+<   Result:NotImplemented
+---
+>   Result:Inside
+3045c3045
+<   Result:NotImplemented
+---
+>   Result:Inside
+3050c3050
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3055c3055
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3060c3060
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3065c3065
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3070c3070
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3075c3075
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3080c3080
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3085c3085
+<   Result:NotImplemented
+---
+>   Result:Outside
+3090c3090
+<   Result:NotImplemented
+---
+>   Result:Outside
+3095c3095
+<   Result:NotImplemented
+---
+>   Result:Inside
+3100c3100
+<   Result:NotImplemented
+---
+>   Result:Inside
+3105c3105
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3110c3110
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3115c3115
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3120c3120
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3125c3125
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3130c3130
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3135c3135
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3140c3140
+<   Result:NotImplemented
+---
+>   Result:Outside
+3145c3145
+<   Result:NotImplemented
+---
+>   Result:Outside
+3150c3150
+<   Result:NotImplemented
+---
+>   Result:Inside
+3155c3155
+<   Result:NotImplemented
+---
+>   Result:Inside
+3160c3160
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3165c3165
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3170c3170
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3175c3175
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3180c3180
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3185c3185
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3190c3190
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3195c3195
+<   Result:NotImplemented
+---
+>   Result:Outside
+3200c3200
+<   Result:NotImplemented
+---
+>   Result:Outside
+3205c3205
+<   Result:NotImplemented
+---
+>   Result:Inside
+3210c3210
+<   Result:NotImplemented
+---
+>   Result:Inside
+3215c3215
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3220c3220
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3225c3225
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3230c3230
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3235c3235
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3240c3240
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3245c3245
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3250c3250
+<   Result:NotImplemented
+---
+>   Result:Outside
+3255c3255
+<   Result:NotImplemented
+---
+>   Result:Outside
+3260c3260
+<   Result:NotImplemented
+---
+>   Result:Inside
+3265c3265
+<   Result:NotImplemented
+---
+>   Result:Inside
+3270c3270
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3275c3275
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3280c3280
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3285c3285
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3290c3290
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3295c3295
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3300c3300
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3305c3305
+<   Result:NotImplemented
+---
+>   Result:Outside
+3310c3310
+<   Result:NotImplemented
+---
+>   Result:Outside
+3315c3315
+<   Result:NotImplemented
+---
+>   Result:Inside
+3320c3320
+<   Result:NotImplemented
+---
+>   Result:Inside
+3325c3325
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3330c3330
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3335c3335
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3340c3340
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3345c3345
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3350c3350
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3355c3355
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3360c3360
+<   Result:NotImplemented
+---
+>   Result:Outside
+3365c3365
+<   Result:NotImplemented
+---
+>   Result:Outside
+3370c3370
+<   Result:NotImplemented
+---
+>   Result:Inside
+3375c3375
+<   Result:NotImplemented
+---
+>   Result:Inside
+3380c3380
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3385c3385
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3390c3390
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3395c3395
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3400c3400
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3405c3405
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3410c3410
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3415c3415
+<   Result:NotImplemented
+---
+>   Result:Outside
+3420c3420
+<   Result:NotImplemented
+---
+>   Result:Outside
+3425c3425
+<   Result:NotImplemented
+---
+>   Result:Inside
+3430c3430
+<   Result:NotImplemented
+---
+>   Result:Inside
+3435c3435
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3440c3440
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3445c3445
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3450c3450
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3455c3455
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3460c3460
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3465c3465
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3470c3470
+<   Result:NotImplemented
+---
+>   Result:Outside
+3475c3475
+<   Result:NotImplemented
+---
+>   Result:Outside
+3480c3480
+<   Result:NotImplemented
+---
+>   Result:Inside
+3485c3485
+<   Result:NotImplemented
+---
+>   Result:Inside
+3490c3490
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3495c3495
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3500c3500
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3505c3505
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3510c3510
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3515c3515
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3520c3520
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3525c3525
+<   Result:NotImplemented
+---
+>   Result:Outside
+3530c3530
+<   Result:NotImplemented
+---
+>   Result:Outside
+3535c3535
+<   Result:NotImplemented
+---
+>   Result:Inside
+3540c3540
+<   Result:NotImplemented
+---
+>   Result:Inside
+3545c3545
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3550c3550
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3555c3555
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3560c3560
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3565c3565
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3570c3570
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3575c3575
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3580c3580
+<   Result:NotImplemented
+---
+>   Result:Outside
+3585c3585
+<   Result:NotImplemented
+---
+>   Result:Outside
+3590c3590
+<   Result:NotImplemented
+---
+>   Result:Inside
+3595c3595
+<   Result:NotImplemented
+---
+>   Result:Inside
+3600c3600
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3605c3605
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3610c3610
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3615c3615
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3620c3620
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3625c3625
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3630c3630
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3635c3635
+<   Result:NotImplemented
+---
+>   Result:Outside
+3640c3640
+<   Result:NotImplemented
+---
+>   Result:Outside
+3645c3645
+<   Result:NotImplemented
+---
+>   Result:Inside
+3650c3650
+<   Result:NotImplemented
+---
+>   Result:Inside
+3655c3655
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3660c3660
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3665c3665
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3670c3670
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3675c3675
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3680c3680
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3685c3685
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3690c3690
+<   Result:NotImplemented
+---
+>   Result:Outside
+3695c3695
+<   Result:NotImplemented
+---
+>   Result:Outside
+3700c3700
+<   Result:NotImplemented
+---
+>   Result:Inside
+3705c3705
+<   Result:NotImplemented
+---
+>   Result:Inside
+3710c3710
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3715c3715
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3720c3720
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3725c3725
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3730c3730
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3735c3735
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3740c3740
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3745c3745
+<   Result:NotImplemented
+---
+>   Result:Outside
+3750c3750
+<   Result:NotImplemented
+---
+>   Result:Outside
+3755c3755
+<   Result:NotImplemented
+---
+>   Result:Inside
+3760c3760
+<   Result:NotImplemented
+---
+>   Result:Inside
+3765c3765
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3770c3770
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3775c3775
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3780c3780
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3785c3785
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3790c3790
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3795c3795
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3800c3800
+<   Result:NotImplemented
+---
+>   Result:Outside
+3805c3805
+<   Result:NotImplemented
+---
+>   Result:Outside
+3810c3810
+<   Result:NotImplemented
+---
+>   Result:Inside
+3815c3815
+<   Result:NotImplemented
+---
+>   Result:Inside
+3820c3820
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3825c3825
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3830c3830
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3835c3835
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3840c3840
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3845c3845
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3850c3850
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3855c3855
+<   Result:NotImplemented
+---
+>   Result:Outside
+3860c3860
+<   Result:NotImplemented
+---
+>   Result:Outside
+3865c3865
+<   Result:NotImplemented
+---
+>   Result:Inside
+3870c3870
+<   Result:NotImplemented
+---
+>   Result:Inside
+3875c3875
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3880c3880
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3885c3885
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3890c3890
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3895c3895
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3900c3900
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3905c3905
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3910c3910
+<   Result:NotImplemented
+---
+>   Result:Outside
+3915c3915
+<   Result:NotImplemented
+---
+>   Result:Outside
+3920c3920
+<   Result:NotImplemented
+---
+>   Result:Inside
+3925c3925
+<   Result:NotImplemented
+---
+>   Result:Inside
+3930c3930
+<   Result:NotImplemented
+---
+>   Result:Inside
+3935c3935
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3940c3940
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3945c3945
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3950c3950
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3955c3955
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3960c3960
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3965c3965
+<   Result:NotImplemented
+---
+>   Result:Outside
+3970c3970
+<   Result:NotImplemented
+---
+>   Result:Outside
+3975c3975
+<   Result:NotImplemented
+---
+>   Result:Inside
+3980c3980
+<   Result:NotImplemented
+---
+>   Result:Inside
+3985c3985
+<   Result:NotImplemented
+---
+>   Result:Inside
+3990c3990
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+3995c3995
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4000c4000
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4005c4005
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4010c4010
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4015c4015
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4020c4020
+<   Result:NotImplemented
+---
+>   Result:Outside
+4025c4025
+<   Result:NotImplemented
+---
+>   Result:Outside
+4030c4030
+<   Result:NotImplemented
+---
+>   Result:Inside
+4035c4035
+<   Result:NotImplemented
+---
+>   Result:Inside
+4040c4040
+<   Result:NotImplemented
+---
+>   Result:Inside
+4045c4045
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4050c4050
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4055c4055
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4060c4060
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4065c4065
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4070c4070
+<   Result:NotImplemented
+---
+>   Result:Outside
+4075c4075
+<   Result:NotImplemented
+---
+>   Result:Outside
+4080c4080
+<   Result:NotImplemented
+---
+>   Result:Outside
+4085c4085
+<   Result:NotImplemented
+---
+>   Result:Inside
+4090c4090
+<   Result:NotImplemented
+---
+>   Result:Inside
+4095c4095
+<   Result:NotImplemented
+---
+>   Result:Inside
+4100c4100
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4105c4105
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4110c4110
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4115c4115
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4120c4120
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4125c4125
+<   Result:NotImplemented
+---
+>   Result:Outside
+4130c4130
+<   Result:NotImplemented
+---
+>   Result:Outside
+4135c4135
+<   Result:NotImplemented
+---
+>   Result:Outside
+4140c4140
+<   Result:NotImplemented
+---
+>   Result:Inside
+4145c4145
+<   Result:NotImplemented
+---
+>   Result:Inside
+4150c4150
+<   Result:NotImplemented
+---
+>   Result:Inside
+4155c4155
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4160c4160
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4165c4165
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4170c4170
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4175c4175
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4180c4180
+<   Result:NotImplemented
+---
+>   Result:Outside
+4185c4185
+<   Result:NotImplemented
+---
+>   Result:Outside
+4190c4190
+<   Result:NotImplemented
+---
+>   Result:Outside
+4195c4195
+<   Result:NotImplemented
+---
+>   Result:Inside
+4200c4200
+<   Result:NotImplemented
+---
+>   Result:Inside
+4205c4205
+<   Result:NotImplemented
+---
+>   Result:Inside
+4210c4210
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4215c4215
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4220c4220
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4225c4225
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4230c4230
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4235c4235
+<   Result:NotImplemented
+---
+>   Result:Outside
+4240c4240
+<   Result:NotImplemented
+---
+>   Result:Outside
+4245c4245
+<   Result:NotImplemented
+---
+>   Result:Outside
+4250c4250
+<   Result:NotImplemented
+---
+>   Result:Inside
+4255c4255
+<   Result:NotImplemented
+---
+>   Result:Inside
+4260c4260
+<   Result:NotImplemented
+---
+>   Result:Inside
+4265c4265
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4270c4270
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4275c4275
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4280c4280
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4285c4285
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4290c4290
+<   Result:NotImplemented
+---
+>   Result:Outside
+4295c4295
+<   Result:NotImplemented
+---
+>   Result:Outside
+4300c4300
+<   Result:NotImplemented
+---
+>   Result:Outside
+4305c4305
+<   Result:NotImplemented
+---
+>   Result:Inside
+4310c4310
+<   Result:NotImplemented
+---
+>   Result:Inside
+4315c4315
+<   Result:NotImplemented
+---
+>   Result:Inside
+4320c4320
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4325c4325
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4330c4330
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4335c4335
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4340c4340
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+4345c4345
+<   Result:NotImplemented
+---
+>   Result:Outside
+4350c4350
+<   Result:NotImplemented
+---
+>   Result:Outside
+4355c4355
+<   Result:NotImplemented
+---
+>   Result:Outside
+4360c4360
+<  Result:NotImplemented
+---
+>  Result:Inside
+4365c4365
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4370c4370
+<  Result:NotImplemented
+---
+>  Result:Outside
+4375c4375
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4380c4380
+<  Result:NotImplemented
+---
+>  Result:Outside
+4385c4385
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4390c4390
+<  Result:NotImplemented
+---
+>  Result:Outside
+4395c4395
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4400c4400
+<  Result:NotImplemented
+---
+>  Result:Outside
+4405c4405
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4410c4410
+<  Result:NotImplemented
+---
+>  Result:Outside
+4415c4415
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4420c4420
+<  Result:NotImplemented
+---
+>  Result:Outside
+4425c4425
+<  Result:NotImplemented
+---
+>  Result:Outside
+4430c4430
+<  Result:NotImplemented
+---
+>  Result:Outside
+4435c4435
+<  Result:NotImplemented
+---
+>  Result:Outside
+4440c4440
+<  Result:NotImplemented
+---
+>  Result:Outside
+4445c4445
+<  Result:NotImplemented
+---
+>  Result:Outside
+4450c4450
+<  Result:NotImplemented
+---
+>  Result:Outside
+4455c4455
+<  Result:NotImplemented
+---
+>  Result:Outside
+4460c4460
+<  Result:NotImplemented
+---
+>  Result:Outside
+4465c4465
+<  Result:NotImplemented
+---
+>  Result:Outside
+4470c4470
+<  Result:NotImplemented
+---
+>  Result:Outside
+4475c4475
+<  Result:NotImplemented
+---
+>  Result:Outside
+4480c4480
+<  Result:NotImplemented
+---
+>  Result:Outside
+4485c4485
+<  Result:NotImplemented
+---
+>  Result:Outside
+4490c4490
+<  Result:NotImplemented
+---
+>  Result:Outside
+4495c4495
+<  Result:NotImplemented
+---
+>  Result:Outside
+4500c4500
+<  Result:NotImplemented
+---
+>  Result:Outside
+4505c4505
+<  Result:NotImplemented
+---
+>  Result:Outside
+4510c4510
+<  Result:NotImplemented
+---
+>  Result:Outside
+4515c4515
+<  Result:NotImplemented
+---
+>  Result:Outside
+4520c4520
+<  Result:NotImplemented
+---
+>  Result:Outside
+4525c4525
+<  Result:NotImplemented
+---
+>  Result:Outside
+4530c4530
+<  Result:NotImplemented
+---
+>  Result:Outside
+4535c4535
+<  Result:NotImplemented
+---
+>  Result:Outside
+4540c4540
+<  Result:NotImplemented
+---
+>  Result:Outside
+4545c4545
+<  Result:NotImplemented
+---
+>  Result:Inside
+4550c4550
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4555c4555
+<  Result:NotImplemented
+---
+>  Result:Outside
+4560c4560
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4565c4565
+<  Result:NotImplemented
+---
+>  Result:Outside
+4570c4570
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4575c4575
+<  Result:NotImplemented
+---
+>  Result:Outside
+4580c4580
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4585c4585
+<  Result:NotImplemented
+---
+>  Result:Outside
+4590c4590
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4595c4595
+<  Result:NotImplemented
+---
+>  Result:Outside
+4600c4600
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4605c4605
+<  Result:NotImplemented
+---
+>  Result:Outside
+4610c4610
+<  Result:NotImplemented
+---
+>  Result:Outside
+4615c4615
+<  Result:NotImplemented
+---
+>  Result:Outside
+4620c4620
+<  Result:NotImplemented
+---
+>  Result:Outside
+4625c4625
+<  Result:NotImplemented
+---
+>  Result:Outside
+4630c4630
+<  Result:NotImplemented
+---
+>  Result:Outside
+4635c4635
+<  Result:NotImplemented
+---
+>  Result:Outside
+4640c4640
+<  Result:NotImplemented
+---
+>  Result:Outside
+4645c4645
+<  Result:NotImplemented
+---
+>  Result:Outside
+4650c4650
+<  Result:NotImplemented
+---
+>  Result:Outside
+4655c4655
+<  Result:NotImplemented
+---
+>  Result:Outside
+4660c4660
+<  Result:NotImplemented
+---
+>  Result:Outside
+4665c4665
+<  Result:NotImplemented
+---
+>  Result:Outside
+4670c4670
+<  Result:NotImplemented
+---
+>  Result:Outside
+4675c4675
+<  Result:NotImplemented
+---
+>  Result:Outside
+4680c4680
+<  Result:NotImplemented
+---
+>  Result:Outside
+4685c4685
+<  Result:NotImplemented
+---
+>  Result:Outside
+4690c4690
+<  Result:NotImplemented
+---
+>  Result:Outside
+4695c4695
+<  Result:NotImplemented
+---
+>  Result:Outside
+4700c4700
+<  Result:NotImplemented
+---
+>  Result:Outside
+4705c4705
+<  Result:NotImplemented
+---
+>  Result:Outside
+4710c4710
+<  Result:NotImplemented
+---
+>  Result:Outside
+4715c4715
+<  Result:NotImplemented
+---
+>  Result:Outside
+4720c4720
+<  Result:NotImplemented
+---
+>  Result:Outside
+4725c4725
+<  Result:NotImplemented
+---
+>  Result:Outside
+4730c4730
+<  Result:NotImplemented
+---
+>  Result:Inside
+4735c4735
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4740c4740
+<  Result:NotImplemented
+---
+>  Result:Outside
+4745c4745
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4750c4750
+<  Result:NotImplemented
+---
+>  Result:Outside
+4755c4755
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4760c4760
+<  Result:NotImplemented
+---
+>  Result:Outside
+4765c4765
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4770c4770
+<  Result:NotImplemented
+---
+>  Result:Outside
+4775c4775
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4780c4780
+<  Result:NotImplemented
+---
+>  Result:Outside
+4785c4785
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4790c4790
+<  Result:NotImplemented
+---
+>  Result:Outside
+4795c4795
+<  Result:NotImplemented
+---
+>  Result:Outside
+4800c4800
+<  Result:NotImplemented
+---
+>  Result:Outside
+4805c4805
+<  Result:NotImplemented
+---
+>  Result:Outside
+4810c4810
+<  Result:NotImplemented
+---
+>  Result:Outside
+4815c4815
+<  Result:NotImplemented
+---
+>  Result:Outside
+4820c4820
+<  Result:NotImplemented
+---
+>  Result:Outside
+4825c4825
+<  Result:NotImplemented
+---
+>  Result:Outside
+4830c4830
+<  Result:NotImplemented
+---
+>  Result:Outside
+4835c4835
+<  Result:NotImplemented
+---
+>  Result:Outside
+4840c4840
+<  Result:NotImplemented
+---
+>  Result:Outside
+4845c4845
+<  Result:NotImplemented
+---
+>  Result:Outside
+4850c4850
+<  Result:NotImplemented
+---
+>  Result:Outside
+4855c4855
+<  Result:NotImplemented
+---
+>  Result:Outside
+4860c4860
+<  Result:NotImplemented
+---
+>  Result:Outside
+4865c4865
+<  Result:NotImplemented
+---
+>  Result:Outside
+4870c4870
+<  Result:NotImplemented
+---
+>  Result:Outside
+4875c4875
+<  Result:NotImplemented
+---
+>  Result:Outside
+4880c4880
+<  Result:NotImplemented
+---
+>  Result:Outside
+4885c4885
+<  Result:NotImplemented
+---
+>  Result:Outside
+4890c4890
+<  Result:NotImplemented
+---
+>  Result:Outside
+4895c4895
+<  Result:NotImplemented
+---
+>  Result:Outside
+4900c4900
+<  Result:NotImplemented
+---
+>  Result:Outside
+4905c4905
+<  Result:NotImplemented
+---
+>  Result:Outside
+4910c4910
+<  Result:NotImplemented
+---
+>  Result:Outside
+4915c4915
+<  Result:NotImplemented
+---
+>  Result:Inside
+4920c4920
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4925c4925
+<  Result:NotImplemented
+---
+>  Result:Outside
+4930c4930
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4935c4935
+<  Result:NotImplemented
+---
+>  Result:Outside
+4940c4940
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4945c4945
+<  Result:NotImplemented
+---
+>  Result:Outside
+4950c4950
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4955c4955
+<  Result:NotImplemented
+---
+>  Result:Outside
+4960c4960
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4965c4965
+<  Result:NotImplemented
+---
+>  Result:Outside
+4970c4970
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+4975c4975
+<  Result:NotImplemented
+---
+>  Result:Outside
+4980c4980
+<  Result:NotImplemented
+---
+>  Result:Outside
+4985c4985
+<  Result:NotImplemented
+---
+>  Result:Outside
+4990c4990
+<  Result:NotImplemented
+---
+>  Result:Outside
+4995c4995
+<  Result:NotImplemented
+---
+>  Result:Outside
+5000c5000
+<  Result:NotImplemented
+---
+>  Result:Outside
+5005c5005
+<  Result:NotImplemented
+---
+>  Result:Outside
+5010c5010
+<  Result:NotImplemented
+---
+>  Result:Outside
+5015c5015
+<  Result:NotImplemented
+---
+>  Result:Outside
+5020c5020
+<  Result:NotImplemented
+---
+>  Result:Outside
+5025c5025
+<  Result:NotImplemented
+---
+>  Result:Outside
+5030c5030
+<  Result:NotImplemented
+---
+>  Result:Outside
+5035c5035
+<  Result:NotImplemented
+---
+>  Result:Outside
+5040c5040
+<  Result:NotImplemented
+---
+>  Result:Outside
+5045c5045
+<  Result:NotImplemented
+---
+>  Result:Outside
+5050c5050
+<  Result:NotImplemented
+---
+>  Result:Outside
+5055c5055
+<  Result:NotImplemented
+---
+>  Result:Outside
+5060c5060
+<  Result:NotImplemented
+---
+>  Result:Outside
+5065c5065
+<  Result:NotImplemented
+---
+>  Result:Outside
+5070c5070
+<  Result:NotImplemented
+---
+>  Result:Outside
+5075c5075
+<  Result:NotImplemented
+---
+>  Result:Outside
+5080c5080
+<  Result:NotImplemented
+---
+>  Result:Outside
+5085c5085
+<  Result:NotImplemented
+---
+>  Result:Outside
+5090c5090
+<  Result:NotImplemented
+---
+>  Result:Outside
+5095c5095
+<  Result:NotImplemented
+---
+>  Result:Outside
+5100c5100
+<  Result:NotImplemented
+---
+>  Result:Inside
+5105c5105
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5110c5110
+<  Result:NotImplemented
+---
+>  Result:Outside
+5115c5115
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5120c5120
+<  Result:NotImplemented
+---
+>  Result:Outside
+5125c5125
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5130c5130
+<  Result:NotImplemented
+---
+>  Result:Outside
+5135c5135
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5140c5140
+<  Result:NotImplemented
+---
+>  Result:Outside
+5145c5145
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5150c5150
+<  Result:NotImplemented
+---
+>  Result:Outside
+5155c5155
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5160c5160
+<  Result:NotImplemented
+---
+>  Result:Outside
+5165c5165
+<  Result:NotImplemented
+---
+>  Result:Outside
+5170c5170
+<  Result:NotImplemented
+---
+>  Result:Outside
+5175c5175
+<  Result:NotImplemented
+---
+>  Result:Outside
+5180c5180
+<  Result:NotImplemented
+---
+>  Result:Outside
+5185c5185
+<  Result:NotImplemented
+---
+>  Result:Outside
+5190c5190
+<  Result:NotImplemented
+---
+>  Result:Outside
+5195c5195
+<  Result:NotImplemented
+---
+>  Result:Outside
+5200c5200
+<  Result:NotImplemented
+---
+>  Result:Outside
+5205c5205
+<  Result:NotImplemented
+---
+>  Result:Outside
+5210c5210
+<  Result:NotImplemented
+---
+>  Result:Outside
+5215c5215
+<  Result:NotImplemented
+---
+>  Result:Outside
+5220c5220
+<  Result:NotImplemented
+---
+>  Result:Outside
+5225c5225
+<  Result:NotImplemented
+---
+>  Result:Outside
+5230c5230
+<  Result:NotImplemented
+---
+>  Result:Outside
+5235c5235
+<  Result:NotImplemented
+---
+>  Result:Outside
+5240c5240
+<  Result:NotImplemented
+---
+>  Result:Outside
+5245c5245
+<  Result:NotImplemented
+---
+>  Result:Outside
+5250c5250
+<  Result:NotImplemented
+---
+>  Result:Outside
+5255c5255
+<  Result:NotImplemented
+---
+>  Result:Outside
+5260c5260
+<  Result:NotImplemented
+---
+>  Result:Outside
+5265c5265
+<  Result:NotImplemented
+---
+>  Result:Outside
+5270c5270
+<  Result:NotImplemented
+---
+>  Result:Outside
+5275c5275
+<  Result:NotImplemented
+---
+>  Result:Outside
+5280c5280
+<  Result:NotImplemented
+---
+>  Result:Outside
+5285c5285
+<  Result:NotImplemented
+---
+>  Result:Inside
+5290c5290
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5295c5295
+<  Result:NotImplemented
+---
+>  Result:Outside
+5300c5300
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5305c5305
+<  Result:NotImplemented
+---
+>  Result:Outside
+5310c5310
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5315c5315
+<  Result:NotImplemented
+---
+>  Result:Outside
+5320c5320
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5325c5325
+<  Result:NotImplemented
+---
+>  Result:Outside
+5330c5330
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5335c5335
+<  Result:NotImplemented
+---
+>  Result:Outside
+5340c5340
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+5345c5345
+<  Result:NotImplemented
+---
+>  Result:Outside
+5350c5350
+<  Result:NotImplemented
+---
+>  Result:Outside
+5355c5355
+<  Result:NotImplemented
+---
+>  Result:Outside
+5360c5360
+<  Result:NotImplemented
+---
+>  Result:Outside
+5365c5365
+<  Result:NotImplemented
+---
+>  Result:Outside
+5370c5370
+<  Result:NotImplemented
+---
+>  Result:Outside
+5375c5375
+<  Result:NotImplemented
+---
+>  Result:Outside
+5380c5380
+<  Result:NotImplemented
+---
+>  Result:Outside
+5385c5385
+<  Result:NotImplemented
+---
+>  Result:Outside
+5390c5390
+<  Result:NotImplemented
+---
+>  Result:Outside
+5395c5395
+<  Result:NotImplemented
+---
+>  Result:Outside
+5400c5400
+<  Result:NotImplemented
+---
+>  Result:Outside
+5405c5405
+<  Result:NotImplemented
+---
+>  Result:Outside
+5410c5410
+<  Result:NotImplemented
+---
+>  Result:Outside
+5415c5415
+<  Result:NotImplemented
+---
+>  Result:Outside
+5420c5420
+<  Result:NotImplemented
+---
+>  Result:Outside
+5425c5425
+<  Result:NotImplemented
+---
+>  Result:Outside
+5430c5430
+<  Result:NotImplemented
+---
+>  Result:Outside
+5435c5435
+<  Result:NotImplemented
+---
+>  Result:Outside
+5440c5440
+<  Result:NotImplemented
+---
+>  Result:Outside
+5445c5445
+<  Result:NotImplemented
+---
+>  Result:Outside
+5450c5450
+<  Result:NotImplemented
+---
+>  Result:Outside
+5455c5455
+<  Result:NotImplemented
+---
+>  Result:Outside
+5460c5460
+<  Result:NotImplemented
+---
+>  Result:Outside
+5465c5465
+<  Result:NotImplemented
+---
+>  Result:Outside
+5470c5470
+<   Result:NotImplemented
+---
+>   Result:Inside
+5475c5475
+<   Result:NotImplemented
+---
+>   Result:Outside
+5480c5480
+<   Result:NotImplemented
+---
+>   Result:Outside
+5485c5485
+<   Result:NotImplemented
+---
+>   Result:Outside
+5490c5490
+<   Result:NotImplemented
+---
+>   Result:Outside
+5495c5495
+<   Result:NotImplemented
+---
+>   Result:Outside
+5500c5500
+<   Result:NotImplemented
+---
+>   Result:Outside
+5505c5505
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5510c5510
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5515c5515
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5520c5520
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5525c5525
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5530c5530
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5535c5535
+<   Result:NotImplemented
+---
+>   Result:Outside
+5540c5540
+<   Result:NotImplemented
+---
+>   Result:Outside
+5545c5545
+<   Result:NotImplemented
+---
+>   Result:Outside
+5550c5550
+<   Result:NotImplemented
+---
+>   Result:Outside
+5555c5555
+<   Result:NotImplemented
+---
+>   Result:Outside
+5560c5560
+<   Result:NotImplemented
+---
+>   Result:Outside
+5565c5565
+<   Result:NotImplemented
+---
+>   Result:Outside
+5570c5570
+<   Result:NotImplemented
+---
+>   Result:Outside
+5575c5575
+<   Result:NotImplemented
+---
+>   Result:Outside
+5580c5580
+<   Result:NotImplemented
+---
+>   Result:Outside
+5585c5585
+<   Result:NotImplemented
+---
+>   Result:Outside
+5590c5590
+<   Result:NotImplemented
+---
+>   Result:Outside
+5595c5595
+<   Result:NotImplemented
+---
+>   Result:Outside
+5600c5600
+<   Result:NotImplemented
+---
+>   Result:Outside
+5605c5605
+<   Result:NotImplemented
+---
+>   Result:Outside
+5610c5610
+<   Result:NotImplemented
+---
+>   Result:Outside
+5615c5615
+<   Result:NotImplemented
+---
+>   Result:Outside
+5620c5620
+<   Result:NotImplemented
+---
+>   Result:Outside
+5625c5625
+<   Result:NotImplemented
+---
+>   Result:Outside
+5630c5630
+<   Result:NotImplemented
+---
+>   Result:Outside
+5635c5635
+<   Result:NotImplemented
+---
+>   Result:Outside
+5640c5640
+<   Result:NotImplemented
+---
+>   Result:Outside
+5645c5645
+<   Result:NotImplemented
+---
+>   Result:Outside
+5650c5650
+<   Result:NotImplemented
+---
+>   Result:Outside
+5655c5655
+<   Result:NotImplemented
+---
+>   Result:Outside
+5660c5660
+<   Result:NotImplemented
+---
+>   Result:Inside
+5665c5665
+<   Result:NotImplemented
+---
+>   Result:Outside
+5670c5670
+<   Result:NotImplemented
+---
+>   Result:Inside
+5675c5675
+<   Result:NotImplemented
+---
+>   Result:Inside
+5680c5680
+<   Result:NotImplemented
+---
+>   Result:Outside
+5685c5685
+<   Result:NotImplemented
+---
+>   Result:Outside
+5690c5690
+<   Result:NotImplemented
+---
+>   Result:Outside
+5695c5695
+<   Result:NotImplemented
+---
+>   Result:Outside
+5700c5700
+<   Result:NotImplemented
+---
+>   Result:Outside
+5705c5705
+<   Result:NotImplemented
+---
+>   Result:Outside
+5710c5710
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5715c5715
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5720c5720
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5725c5725
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5730c5730
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5735c5735
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5740c5740
+<   Result:NotImplemented
+---
+>   Result:Outside
+5745c5745
+<   Result:NotImplemented
+---
+>   Result:Outside
+5750c5750
+<   Result:NotImplemented
+---
+>   Result:Outside
+5755c5755
+<   Result:NotImplemented
+---
+>   Result:Outside
+5760c5760
+<   Result:NotImplemented
+---
+>   Result:Outside
+5765c5765
+<   Result:NotImplemented
+---
+>   Result:Outside
+5770c5770
+<   Result:NotImplemented
+---
+>   Result:Outside
+5775c5775
+<   Result:NotImplemented
+---
+>   Result:Outside
+5780c5780
+<   Result:NotImplemented
+---
+>   Result:Outside
+5785c5785
+<   Result:NotImplemented
+---
+>   Result:Outside
+5790c5790
+<   Result:NotImplemented
+---
+>   Result:Outside
+5795c5795
+<   Result:NotImplemented
+---
+>   Result:Outside
+5800c5800
+<   Result:NotImplemented
+---
+>   Result:Outside
+5805c5805
+<   Result:NotImplemented
+---
+>   Result:Outside
+5810c5810
+<   Result:NotImplemented
+---
+>   Result:Outside
+5815c5815
+<   Result:NotImplemented
+---
+>   Result:Outside
+5820c5820
+<   Result:NotImplemented
+---
+>   Result:Outside
+5825c5825
+<   Result:NotImplemented
+---
+>   Result:Outside
+5830c5830
+<   Result:NotImplemented
+---
+>   Result:Outside
+5835c5835
+<   Result:NotImplemented
+---
+>   Result:Outside
+5840c5840
+<   Result:NotImplemented
+---
+>   Result:Outside
+5845c5845
+<   Result:NotImplemented
+---
+>   Result:Outside
+5850c5850
+<   Result:NotImplemented
+---
+>   Result:Outside
+5855c5855
+<   Result:NotImplemented
+---
+>   Result:Outside
+5860c5860
+<   Result:NotImplemented
+---
+>   Result:Outside
+5865c5865
+<   Result:NotImplemented
+---
+>   Result:Inside
+5870c5870
+<   Result:NotImplemented
+---
+>   Result:Outside
+5875c5875
+<   Result:NotImplemented
+---
+>   Result:Inside
+5880c5880
+<   Result:NotImplemented
+---
+>   Result:Inside
+5885c5885
+<   Result:NotImplemented
+---
+>   Result:Outside
+5890c5890
+<   Result:NotImplemented
+---
+>   Result:Outside
+5895c5895
+<   Result:NotImplemented
+---
+>   Result:Outside
+5900c5900
+<   Result:NotImplemented
+---
+>   Result:Outside
+5905c5905
+<   Result:NotImplemented
+---
+>   Result:Outside
+5910c5910
+<   Result:NotImplemented
+---
+>   Result:Outside
+5915c5915
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5920c5920
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5925c5925
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5930c5930
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5935c5935
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5940c5940
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+5945c5945
+<   Result:NotImplemented
+---
+>   Result:Outside
+5950c5950
+<   Result:NotImplemented
+---
+>   Result:Outside
+5955c5955
+<   Result:NotImplemented
+---
+>   Result:Outside
+5960c5960
+<   Result:NotImplemented
+---
+>   Result:Outside
+5965c5965
+<   Result:NotImplemented
+---
+>   Result:Outside
+5970c5970
+<   Result:NotImplemented
+---
+>   Result:Outside
+5975c5975
+<   Result:NotImplemented
+---
+>   Result:Outside
+5980c5980
+<   Result:NotImplemented
+---
+>   Result:Outside
+5985c5985
+<   Result:NotImplemented
+---
+>   Result:Outside
+5990c5990
+<   Result:NotImplemented
+---
+>   Result:Outside
+5995c5995
+<   Result:NotImplemented
+---
+>   Result:Outside
+6000c6000
+<   Result:NotImplemented
+---
+>   Result:Outside
+6005c6005
+<   Result:NotImplemented
+---
+>   Result:Outside
+6010c6010
+<   Result:NotImplemented
+---
+>   Result:Outside
+6015c6015
+<   Result:NotImplemented
+---
+>   Result:Outside
+6020c6020
+<   Result:NotImplemented
+---
+>   Result:Outside
+6025c6025
+<   Result:NotImplemented
+---
+>   Result:Outside
+6030c6030
+<   Result:NotImplemented
+---
+>   Result:Outside
+6035c6035
+<   Result:NotImplemented
+---
+>   Result:Outside
+6040c6040
+<   Result:NotImplemented
+---
+>   Result:Outside
+6045c6045
+<   Result:NotImplemented
+---
+>   Result:Outside
+6050c6050
+<   Result:NotImplemented
+---
+>   Result:Outside
+6055c6055
+<   Result:NotImplemented
+---
+>   Result:Outside
+6060c6060
+<   Result:NotImplemented
+---
+>   Result:Outside
+6065c6065
+<   Result:NotImplemented
+---
+>   Result:Outside
+6070c6070
+<   Result:NotImplemented
+---
+>   Result:Inside
+6075c6075
+<   Result:NotImplemented
+---
+>   Result:Outside
+6080c6080
+<   Result:NotImplemented
+---
+>   Result:Inside
+6085c6085
+<   Result:NotImplemented
+---
+>   Result:Inside
+6090c6090
+<   Result:NotImplemented
+---
+>   Result:Outside
+6095c6095
+<   Result:NotImplemented
+---
+>   Result:Outside
+6100c6100
+<   Result:NotImplemented
+---
+>   Result:Outside
+6105c6105
+<   Result:NotImplemented
+---
+>   Result:Outside
+6110c6110
+<   Result:NotImplemented
+---
+>   Result:Outside
+6115c6115
+<   Result:NotImplemented
+---
+>   Result:Outside
+6120c6120
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6125c6125
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6130c6130
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6135c6135
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6140c6140
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6145c6145
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6150c6150
+<   Result:NotImplemented
+---
+>   Result:Outside
+6155c6155
+<   Result:NotImplemented
+---
+>   Result:Outside
+6160c6160
+<   Result:NotImplemented
+---
+>   Result:Outside
+6165c6165
+<   Result:NotImplemented
+---
+>   Result:Outside
+6170c6170
+<   Result:NotImplemented
+---
+>   Result:Outside
+6175c6175
+<   Result:NotImplemented
+---
+>   Result:Outside
+6180c6180
+<   Result:NotImplemented
+---
+>   Result:Outside
+6185c6185
+<   Result:NotImplemented
+---
+>   Result:Outside
+6190c6190
+<   Result:NotImplemented
+---
+>   Result:Outside
+6195c6195
+<   Result:NotImplemented
+---
+>   Result:Outside
+6200c6200
+<   Result:NotImplemented
+---
+>   Result:Outside
+6205c6205
+<   Result:NotImplemented
+---
+>   Result:Outside
+6210c6210
+<   Result:NotImplemented
+---
+>   Result:Outside
+6215c6215
+<   Result:NotImplemented
+---
+>   Result:Outside
+6220c6220
+<   Result:NotImplemented
+---
+>   Result:Outside
+6225c6225
+<   Result:NotImplemented
+---
+>   Result:Outside
+6230c6230
+<   Result:NotImplemented
+---
+>   Result:Outside
+6235c6235
+<   Result:NotImplemented
+---
+>   Result:Outside
+6240c6240
+<   Result:NotImplemented
+---
+>   Result:Outside
+6245c6245
+<   Result:NotImplemented
+---
+>   Result:Outside
+6250c6250
+<   Result:NotImplemented
+---
+>   Result:Outside
+6255c6255
+<   Result:NotImplemented
+---
+>   Result:Outside
+6260c6260
+<   Result:NotImplemented
+---
+>   Result:Outside
+6265c6265
+<   Result:NotImplemented
+---
+>   Result:Outside
+6270c6270
+<   Result:NotImplemented
+---
+>   Result:Outside
+6275c6275
+<   Result:NotImplemented
+---
+>   Result:Inside
+6280c6280
+<   Result:NotImplemented
+---
+>   Result:Outside
+6285c6285
+<   Result:NotImplemented
+---
+>   Result:Inside
+6290c6290
+<   Result:NotImplemented
+---
+>   Result:Inside
+6295c6295
+<   Result:NotImplemented
+---
+>   Result:Outside
+6300c6300
+<   Result:NotImplemented
+---
+>   Result:Outside
+6305c6305
+<   Result:NotImplemented
+---
+>   Result:Outside
+6310c6310
+<   Result:NotImplemented
+---
+>   Result:Outside
+6315c6315
+<   Result:NotImplemented
+---
+>   Result:Outside
+6320c6320
+<   Result:NotImplemented
+---
+>   Result:Outside
+6325c6325
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6330c6330
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6335c6335
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6340c6340
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6345c6345
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6350c6350
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6355c6355
+<   Result:NotImplemented
+---
+>   Result:Outside
+6360c6360
+<   Result:NotImplemented
+---
+>   Result:Outside
+6365c6365
+<   Result:NotImplemented
+---
+>   Result:Outside
+6370c6370
+<   Result:NotImplemented
+---
+>   Result:Outside
+6375c6375
+<   Result:NotImplemented
+---
+>   Result:Outside
+6380c6380
+<   Result:NotImplemented
+---
+>   Result:Outside
+6385c6385
+<   Result:NotImplemented
+---
+>   Result:Outside
+6390c6390
+<   Result:NotImplemented
+---
+>   Result:Outside
+6395c6395
+<   Result:NotImplemented
+---
+>   Result:Outside
+6400c6400
+<   Result:NotImplemented
+---
+>   Result:Outside
+6405c6405
+<   Result:NotImplemented
+---
+>   Result:Outside
+6410c6410
+<   Result:NotImplemented
+---
+>   Result:Outside
+6415c6415
+<   Result:NotImplemented
+---
+>   Result:Outside
+6420c6420
+<   Result:NotImplemented
+---
+>   Result:Outside
+6425c6425
+<   Result:NotImplemented
+---
+>   Result:Outside
+6430c6430
+<   Result:NotImplemented
+---
+>   Result:Outside
+6435c6435
+<   Result:NotImplemented
+---
+>   Result:Outside
+6440c6440
+<   Result:NotImplemented
+---
+>   Result:Outside
+6445c6445
+<   Result:NotImplemented
+---
+>   Result:Outside
+6450c6450
+<   Result:NotImplemented
+---
+>   Result:Outside
+6455c6455
+<   Result:NotImplemented
+---
+>   Result:Outside
+6460c6460
+<   Result:NotImplemented
+---
+>   Result:Outside
+6465c6465
+<   Result:NotImplemented
+---
+>   Result:Outside
+6470c6470
+<   Result:NotImplemented
+---
+>   Result:Outside
+6475c6475
+<   Result:NotImplemented
+---
+>   Result:Outside
+6480c6480
+<   Result:NotImplemented
+---
+>   Result:Inside
+6485c6485
+<   Result:NotImplemented
+---
+>   Result:Outside
+6490c6490
+<   Result:NotImplemented
+---
+>   Result:Inside
+6495c6495
+<   Result:NotImplemented
+---
+>   Result:Inside
+6500c6500
+<   Result:NotImplemented
+---
+>   Result:Outside
+6505c6505
+<   Result:NotImplemented
+---
+>   Result:Outside
+6510c6510
+<   Result:NotImplemented
+---
+>   Result:Outside
+6515c6515
+<   Result:NotImplemented
+---
+>   Result:Outside
+6520c6520
+<   Result:NotImplemented
+---
+>   Result:Outside
+6525c6525
+<   Result:NotImplemented
+---
+>   Result:Outside
+6530c6530
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6535c6535
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6540c6540
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6545c6545
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6550c6550
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6555c6555
+<   Result:NotImplemented
+---
+>   Result:Overlaps
+6560c6560
+<   Result:NotImplemented
+---
+>   Result:Outside
+6565c6565
+<   Result:NotImplemented
+---
+>   Result:Outside
+6570c6570
+<   Result:NotImplemented
+---
+>   Result:Outside
+6575c6575
+<   Result:NotImplemented
+---
+>   Result:Outside
+6580c6580
+<   Result:NotImplemented
+---
+>   Result:Outside
+6585c6585
+<   Result:NotImplemented
+---
+>   Result:Outside
+6590c6590
+<   Result:NotImplemented
+---
+>   Result:Outside
+6595c6595
+<   Result:NotImplemented
+---
+>   Result:Outside
+6600c6600
+<   Result:NotImplemented
+---
+>   Result:Outside
+6605c6605
+<   Result:NotImplemented
+---
+>   Result:Outside
+6610c6610
+<   Result:NotImplemented
+---
+>   Result:Outside
+6615c6615
+<   Result:NotImplemented
+---
+>   Result:Outside
+6620c6620
+<   Result:NotImplemented
+---
+>   Result:Outside
+6625c6625
+<   Result:NotImplemented
+---
+>   Result:Outside
+6630c6630
+<   Result:NotImplemented
+---
+>   Result:Outside
+6635c6635
+<   Result:NotImplemented
+---
+>   Result:Outside
+6640c6640
+<   Result:NotImplemented
+---
+>   Result:Outside
+6645c6645
+<   Result:NotImplemented
+---
+>   Result:Outside
+6650c6650
+<   Result:NotImplemented
+---
+>   Result:Outside
+6655c6655
+<   Result:NotImplemented
+---
+>   Result:Outside
+6660c6660
+<   Result:NotImplemented
+---
+>   Result:Outside
+6665c6665
+<   Result:NotImplemented
+---
+>   Result:Outside
+6670c6670
+<   Result:NotImplemented
+---
+>   Result:Outside
+6675c6675
+<   Result:NotImplemented
+---
+>   Result:Outside
+6680c6680
+<   Result:NotImplemented
+---
+>   Result:Outside
+6685c6685
+<   Result:NotImplemented
+---
+>   Result:Inside
+6690c6690
+<   Result:NotImplemented
+---
+>   Result:Outside
+6695c6695
+<   Result:NotImplemented
+---
+>   Result:Inside
+6700c6700
+<  Result:NotImplemented
+---
+>  Result:Inside
+6705c6705
+<  Result:NotImplemented
+---
+>  Result:Outside
+6710c6710
+<  Result:NotImplemented
+---
+>  Result:Outside
+6715c6715
+<  Result:NotImplemented
+---
+>  Result:Outside
+6720c6720
+<  Result:NotImplemented
+---
+>  Result:Outside
+6725c6725
+<  Result:NotImplemented
+---
+>  Result:Outside
+6730c6730
+<  Result:NotImplemented
+---
+>  Result:Outside
+6735c6735
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6740c6740
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6745c6745
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6750c6750
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6755c6755
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6760c6760
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6765c6765
+<  Result:NotImplemented
+---
+>  Result:Outside
+6770c6770
+<  Result:NotImplemented
+---
+>  Result:Outside
+6775c6775
+<  Result:NotImplemented
+---
+>  Result:Outside
+6780c6780
+<  Result:NotImplemented
+---
+>  Result:Outside
+6785c6785
+<  Result:NotImplemented
+---
+>  Result:Outside
+6790c6790
+<  Result:NotImplemented
+---
+>  Result:Outside
+6795c6795
+<  Result:NotImplemented
+---
+>  Result:Outside
+6800c6800
+<  Result:NotImplemented
+---
+>  Result:Outside
+6805c6805
+<  Result:NotImplemented
+---
+>  Result:Outside
+6810c6810
+<  Result:NotImplemented
+---
+>  Result:Outside
+6815c6815
+<  Result:NotImplemented
+---
+>  Result:Outside
+6820c6820
+<  Result:NotImplemented
+---
+>  Result:Outside
+6825c6825
+<  Result:NotImplemented
+---
+>  Result:Outside
+6830c6830
+<  Result:NotImplemented
+---
+>  Result:Outside
+6835c6835
+<  Result:NotImplemented
+---
+>  Result:Outside
+6840c6840
+<  Result:NotImplemented
+---
+>  Result:Outside
+6845c6845
+<  Result:NotImplemented
+---
+>  Result:Outside
+6850c6850
+<  Result:NotImplemented
+---
+>  Result:Outside
+6855c6855
+<  Result:NotImplemented
+---
+>  Result:Outside
+6860c6860
+<  Result:NotImplemented
+---
+>  Result:Outside
+6865c6865
+<  Result:NotImplemented
+---
+>  Result:Outside
+6870c6870
+<  Result:NotImplemented
+---
+>  Result:Outside
+6875c6875
+<  Result:NotImplemented
+---
+>  Result:Outside
+6880c6880
+<  Result:NotImplemented
+---
+>  Result:Outside
+6885c6885
+<  Result:NotImplemented
+---
+>  Result:Inside
+6890c6890
+<  Result:NotImplemented
+---
+>  Result:Outside
+6895c6895
+<  Result:NotImplemented
+---
+>  Result:Outside
+6900c6900
+<  Result:NotImplemented
+---
+>  Result:Outside
+6905c6905
+<  Result:NotImplemented
+---
+>  Result:Outside
+6910c6910
+<  Result:NotImplemented
+---
+>  Result:Outside
+6915c6915
+<  Result:NotImplemented
+---
+>  Result:Outside
+6920c6920
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6925c6925
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6930c6930
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6935c6935
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6940c6940
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6945c6945
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+6950c6950
+<  Result:NotImplemented
+---
+>  Result:Outside
+6955c6955
+<  Result:NotImplemented
+---
+>  Result:Outside
+6960c6960
+<  Result:NotImplemented
+---
+>  Result:Outside
+6965c6965
+<  Result:NotImplemented
+---
+>  Result:Outside
+6970c6970
+<  Result:NotImplemented
+---
+>  Result:Outside
+6975c6975
+<  Result:NotImplemented
+---
+>  Result:Outside
+6980c6980
+<  Result:NotImplemented
+---
+>  Result:Outside
+6985c6985
+<  Result:NotImplemented
+---
+>  Result:Outside
+6990c6990
+<  Result:NotImplemented
+---
+>  Result:Outside
+6995c6995
+<  Result:NotImplemented
+---
+>  Result:Outside
+7000c7000
+<  Result:NotImplemented
+---
+>  Result:Outside
+7005c7005
+<  Result:NotImplemented
+---
+>  Result:Outside
+7010c7010
+<  Result:NotImplemented
+---
+>  Result:Outside
+7015c7015
+<  Result:NotImplemented
+---
+>  Result:Outside
+7020c7020
+<  Result:NotImplemented
+---
+>  Result:Outside
+7025c7025
+<  Result:NotImplemented
+---
+>  Result:Outside
+7030c7030
+<  Result:NotImplemented
+---
+>  Result:Outside
+7035c7035
+<  Result:NotImplemented
+---
+>  Result:Outside
+7040c7040
+<  Result:NotImplemented
+---
+>  Result:Outside
+7045c7045
+<  Result:NotImplemented
+---
+>  Result:Outside
+7050c7050
+<  Result:NotImplemented
+---
+>  Result:Outside
+7055c7055
+<  Result:NotImplemented
+---
+>  Result:Outside
+7060c7060
+<  Result:NotImplemented
+---
+>  Result:Outside
+7065c7065
+<  Result:NotImplemented
+---
+>  Result:Outside
+7070c7070
+<  Result:NotImplemented
+---
+>  Result:Inside
+7075c7075
+<  Result:NotImplemented
+---
+>  Result:Outside
+7080c7080
+<  Result:NotImplemented
+---
+>  Result:Outside
+7085c7085
+<  Result:NotImplemented
+---
+>  Result:Outside
+7090c7090
+<  Result:NotImplemented
+---
+>  Result:Outside
+7095c7095
+<  Result:NotImplemented
+---
+>  Result:Outside
+7100c7100
+<  Result:NotImplemented
+---
+>  Result:Outside
+7105c7105
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7110c7110
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7115c7115
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7120c7120
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7125c7125
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7130c7130
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7135c7135
+<  Result:NotImplemented
+---
+>  Result:Outside
+7140c7140
+<  Result:NotImplemented
+---
+>  Result:Outside
+7145c7145
+<  Result:NotImplemented
+---
+>  Result:Outside
+7150c7150
+<  Result:NotImplemented
+---
+>  Result:Outside
+7155c7155
+<  Result:NotImplemented
+---
+>  Result:Outside
+7160c7160
+<  Result:NotImplemented
+---
+>  Result:Outside
+7165c7165
+<  Result:NotImplemented
+---
+>  Result:Outside
+7170c7170
+<  Result:NotImplemented
+---
+>  Result:Outside
+7175c7175
+<  Result:NotImplemented
+---
+>  Result:Outside
+7180c7180
+<  Result:NotImplemented
+---
+>  Result:Outside
+7185c7185
+<  Result:NotImplemented
+---
+>  Result:Outside
+7190c7190
+<  Result:NotImplemented
+---
+>  Result:Outside
+7195c7195
+<  Result:NotImplemented
+---
+>  Result:Outside
+7200c7200
+<  Result:NotImplemented
+---
+>  Result:Outside
+7205c7205
+<  Result:NotImplemented
+---
+>  Result:Outside
+7210c7210
+<  Result:NotImplemented
+---
+>  Result:Outside
+7215c7215
+<  Result:NotImplemented
+---
+>  Result:Outside
+7220c7220
+<  Result:NotImplemented
+---
+>  Result:Outside
+7225c7225
+<  Result:NotImplemented
+---
+>  Result:Outside
+7230c7230
+<  Result:NotImplemented
+---
+>  Result:Outside
+7235c7235
+<  Result:NotImplemented
+---
+>  Result:Outside
+7240c7240
+<  Result:NotImplemented
+---
+>  Result:Outside
+7245c7245
+<  Result:NotImplemented
+---
+>  Result:Outside
+7250c7250
+<  Result:NotImplemented
+---
+>  Result:Outside
+7255c7255
+<  Result:NotImplemented
+---
+>  Result:Inside
+7260c7260
+<  Result:NotImplemented
+---
+>  Result:Outside
+7265c7265
+<  Result:NotImplemented
+---
+>  Result:Outside
+7270c7270
+<  Result:NotImplemented
+---
+>  Result:Outside
+7275c7275
+<  Result:NotImplemented
+---
+>  Result:Outside
+7280c7280
+<  Result:NotImplemented
+---
+>  Result:Outside
+7285c7285
+<  Result:NotImplemented
+---
+>  Result:Outside
+7290c7290
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7295c7295
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7300c7300
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7305c7305
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7310c7310
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7315c7315
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7320c7320
+<  Result:NotImplemented
+---
+>  Result:Outside
+7325c7325
+<  Result:NotImplemented
+---
+>  Result:Outside
+7330c7330
+<  Result:NotImplemented
+---
+>  Result:Outside
+7335c7335
+<  Result:NotImplemented
+---
+>  Result:Outside
+7340c7340
+<  Result:NotImplemented
+---
+>  Result:Outside
+7345c7345
+<  Result:NotImplemented
+---
+>  Result:Outside
+7350c7350
+<  Result:NotImplemented
+---
+>  Result:Outside
+7355c7355
+<  Result:NotImplemented
+---
+>  Result:Outside
+7360c7360
+<  Result:NotImplemented
+---
+>  Result:Outside
+7365c7365
+<  Result:NotImplemented
+---
+>  Result:Outside
+7370c7370
+<  Result:NotImplemented
+---
+>  Result:Outside
+7375c7375
+<  Result:NotImplemented
+---
+>  Result:Outside
+7380c7380
+<  Result:NotImplemented
+---
+>  Result:Outside
+7385c7385
+<  Result:NotImplemented
+---
+>  Result:Outside
+7390c7390
+<  Result:NotImplemented
+---
+>  Result:Outside
+7395c7395
+<  Result:NotImplemented
+---
+>  Result:Outside
+7400c7400
+<  Result:NotImplemented
+---
+>  Result:Outside
+7405c7405
+<  Result:NotImplemented
+---
+>  Result:Outside
+7410c7410
+<  Result:NotImplemented
+---
+>  Result:Outside
+7415c7415
+<  Result:NotImplemented
+---
+>  Result:Outside
+7420c7420
+<  Result:NotImplemented
+---
+>  Result:Outside
+7425c7425
+<  Result:NotImplemented
+---
+>  Result:Outside
+7430c7430
+<  Result:NotImplemented
+---
+>  Result:Outside
+7435c7435
+<  Result:NotImplemented
+---
+>  Result:Outside
+7440c7440
+<  Result:NotImplemented
+---
+>  Result:Inside
+7445c7445
+<  Result:NotImplemented
+---
+>  Result:Outside
+7450c7450
+<  Result:NotImplemented
+---
+>  Result:Outside
+7455c7455
+<  Result:NotImplemented
+---
+>  Result:Outside
+7460c7460
+<  Result:NotImplemented
+---
+>  Result:Outside
+7465c7465
+<  Result:NotImplemented
+---
+>  Result:Outside
+7470c7470
+<  Result:NotImplemented
+---
+>  Result:Outside
+7475c7475
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7480c7480
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7485c7485
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7490c7490
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7495c7495
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7500c7500
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7505c7505
+<  Result:NotImplemented
+---
+>  Result:Outside
+7510c7510
+<  Result:NotImplemented
+---
+>  Result:Outside
+7515c7515
+<  Result:NotImplemented
+---
+>  Result:Outside
+7520c7520
+<  Result:NotImplemented
+---
+>  Result:Outside
+7525c7525
+<  Result:NotImplemented
+---
+>  Result:Outside
+7530c7530
+<  Result:NotImplemented
+---
+>  Result:Outside
+7535c7535
+<  Result:NotImplemented
+---
+>  Result:Outside
+7540c7540
+<  Result:NotImplemented
+---
+>  Result:Outside
+7545c7545
+<  Result:NotImplemented
+---
+>  Result:Outside
+7550c7550
+<  Result:NotImplemented
+---
+>  Result:Outside
+7555c7555
+<  Result:NotImplemented
+---
+>  Result:Outside
+7560c7560
+<  Result:NotImplemented
+---
+>  Result:Outside
+7565c7565
+<  Result:NotImplemented
+---
+>  Result:Outside
+7570c7570
+<  Result:NotImplemented
+---
+>  Result:Outside
+7575c7575
+<  Result:NotImplemented
+---
+>  Result:Outside
+7580c7580
+<  Result:NotImplemented
+---
+>  Result:Outside
+7585c7585
+<  Result:NotImplemented
+---
+>  Result:Outside
+7590c7590
+<  Result:NotImplemented
+---
+>  Result:Outside
+7595c7595
+<  Result:NotImplemented
+---
+>  Result:Outside
+7600c7600
+<  Result:NotImplemented
+---
+>  Result:Outside
+7605c7605
+<  Result:NotImplemented
+---
+>  Result:Outside
+7610c7610
+<  Result:NotImplemented
+---
+>  Result:Outside
+7615c7615
+<  Result:NotImplemented
+---
+>  Result:Outside
+7620c7620
+<  Result:NotImplemented
+---
+>  Result:Outside
+7625c7625
+<  Result:NotImplemented
+---
+>  Result:Inside
+7630c7630
+<  Result:NotImplemented
+---
+>  Result:Outside
+7635c7635
+<  Result:NotImplemented
+---
+>  Result:Outside
+7640c7640
+<  Result:NotImplemented
+---
+>  Result:Outside
+7645c7645
+<  Result:NotImplemented
+---
+>  Result:Outside
+7650c7650
+<  Result:NotImplemented
+---
+>  Result:Outside
+7655c7655
+<  Result:NotImplemented
+---
+>  Result:Outside
+7660c7660
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7665c7665
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7670c7670
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7675c7675
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7680c7680
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7685c7685
+<  Result:NotImplemented
+---
+>  Result:Overlaps
+7690c7690
+<  Result:NotImplemented
+---
+>  Result:Outside
+7695c7695
+<  Result:NotImplemented
+---
+>  Result:Outside
+7700c7700
+<  Result:NotImplemented
+---
+>  Result:Outside
+7705c7705
+<  Result:NotImplemented
+---
+>  Result:Outside
+7710c7710
+<  Result:NotImplemented
+---
+>  Result:Outside
+7715c7715
+<  Result:NotImplemented
+---
+>  Result:Outside
+7720c7720
+<  Result:NotImplemented
+---
+>  Result:Outside
+7725c7725
+<  Result:NotImplemented
+---
+>  Result:Outside
+7730c7730
+<  Result:NotImplemented
+---
+>  Result:Outside
+7735c7735
+<  Result:NotImplemented
+---
+>  Result:Outside
+7740c7740
+<  Result:NotImplemented
+---
+>  Result:Outside
+7745c7745
+<  Result:NotImplemented
+---
+>  Result:Outside
+7750c7750
+<  Result:NotImplemented
+---
+>  Result:Outside
+7755c7755
+<  Result:NotImplemented
+---
+>  Result:Outside
+7760c7760
+<  Result:NotImplemented
+---
+>  Result:Outside
+7765c7765
+<  Result:NotImplemented
+---
+>  Result:Outside
+7770c7770
+<  Result:NotImplemented
+---
+>  Result:Outside
+7775c7775
+<  Result:NotImplemented
+---
+>  Result:Outside
+7780c7780
+<  Result:NotImplemented
+---
+>  Result:Outside
+7785c7785
+<  Result:NotImplemented
+---
+>  Result:Outside
+7790c7790
+<  Result:NotImplemented
+---
+>  Result:Outside
+7795c7795
+<  Result:NotImplemented
+---
+>  Result:Outside
+7800c7800
+<  Result:NotImplemented
+---
+>  Result:Outside
+7805c7805
+<  Result:NotImplemented
+---
+>  Result:Outside
+7820c7820
+<   Result:false
+---
+>   Result:true
+7845c7845
+<   Result:false
+---
+>   Result:true
+7870c7870
+<   Result:false
+---
+>   Result:true
+7895c7895
+<   Result:false
+---
+>   Result:true
+7900c7900
+<   Result:false
+---
+>   Result:true
+7905c7905
+<   Result:false
+---
+>   Result:true
+7910c7910
+<   Result:false
+---
+>   Result:true
+7915c7915
+<   Result:false
+---
+>   Result:true
+7930c7930
+<   Result:false
+---
+>   Result:true
+7935c7935
+<   Result:false
+---
+>   Result:true
+7940c7940
+<   Result:false
+---
+>   Result:true
+7945c7945
+<   Result:false
+---
+>   Result:true
+7950c7950
+<   Result:false
+---
+>   Result:true
+7965c7965
+<   Result:false
+---
+>   Result:true
+7970c7970
+<   Result:false
+---
+>   Result:true
+7975c7975
+<   Result:false
+---
+>   Result:true
+7980c7980
+<   Result:false
+---
+>   Result:true
+7985c7985
+<   Result:false
+---
+>   Result:true
+8000c8000
+<   Result:false
+---
+>   Result:true
+8005c8005
+<   Result:false
+---
+>   Result:true
+8010c8010
+<   Result:false
+---
+>   Result:true
+8015c8015
+<   Result:false
+---
+>   Result:true
+8020c8020
+<   Result:false
+---
+>   Result:true
+8035c8035
+<   Result:false
+---
+>   Result:true
+8040c8040
+<   Result:false
+---
+>   Result:true
+8045c8045
+<   Result:false
+---
+>   Result:true
+8050c8050
+<   Result:false
+---
+>   Result:true
+8055c8055
+<   Result:false
+---
+>   Result:true
+8070c8070
+<   Result:false
+---
+>   Result:true
+8075c8075
+<   Result:false
+---
+>   Result:true
+8080c8080
+<   Result:false
+---
+>   Result:true
+8085c8085
+<   Result:false
+---
+>   Result:true
+8090c8090
+<   Result:false
+---
+>   Result:true
+8105c8105
+<   Result:false
+---
+>   Result:true
+8110c8110
+<   Result:false
+---
+>   Result:true
+8115c8115
+<   Result:false
+---
+>   Result:true
+8120c8120
+<   Result:false
+---
+>   Result:true
+8125c8125
+<   Result:false
+---
+>   Result:true
+8140c8140
+<   Result:false
+---
+>   Result:true
+8145c8145
+<   Result:false
+---
+>   Result:true
+8150c8150
+<   Result:false
+---
+>   Result:true
+8155c8155
+<   Result:false
+---
+>   Result:true
+8160c8160
+<   Result:false
+---
+>   Result:true
+8175c8175
+<   Result:false
+---
+>   Result:true
+8180c8180
+<   Result:false
+---
+>   Result:true
+8185c8185
+<   Result:false
+---
+>   Result:true
+8190c8190
+<   Result:false
+---
+>   Result:true
+8195c8195
+<   Result:false
+---
+>   Result:true
+8210c8210
+<   Result:false
+---
+>   Result:true
+8215c8215
+<   Result:false
+---
+>   Result:true
+8220c8220
+<   Result:false
+---
+>   Result:true
+8225c8225
+<   Result:false
+---
+>   Result:true
+8230c8230
+<   Result:false
+---
+>   Result:true
+8265c8265
+<   Result:false
+---
+>   Result:true
+8300c8300
+<   Result:false
+---
+>   Result:true
